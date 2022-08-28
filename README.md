@@ -10,3 +10,7 @@ Camera 영상을 인식하여 AI검출동작을 통해 자동차와 사람을 �
 진입차단 동작을 실행 할 수 있는 시스템을 구성함으로써 교통 사고율을 낯추는 것을 목적으로 합니다. 
 
 ***
+
+![image01](https://raw.githubusercontent.com/avatar196kc/GreenBot/main/images/20220828112403.jpg)
+
+***
